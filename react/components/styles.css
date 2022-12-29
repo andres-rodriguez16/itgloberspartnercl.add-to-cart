@@ -1,0 +1,27 @@
+.container {
+  padding: 10px;
+}
+
+.container__item {
+  border-bottom: 2px solid #c9c9c9;
+  padding: 10px;
+}
+
+.container__buttons {
+  margin: 20px;
+  display: inline-flex;
+}
+
+.link {
+  padding: 10px 50px 10px 50px;
+  margin: 10px;
+  background-color: #eb5b25;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.link:hover {
+  background-color: #2011ab;
+}
